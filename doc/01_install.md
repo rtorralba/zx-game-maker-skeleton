@@ -1,18 +1,23 @@
 # Image editor
 
-You need to design som images fot your game, screens (title, loading, hud...), tileset, spriteset... You can use whatever you want generic image editor like Photoshop or GIMP. But we recommend to use retro gaming image editor like ZX Paintbrush because knows about ZX Spectrum image rules to generate it perfectly.
+Necesitas un editor de imágenes para diseñar algunas pantallas de tu juego como la pantalla inicial, carga, principal... Y el conjunto de tiles (los cuadraditos que sirven para diseñar las pantallas) y sprites (Personaje principal, enemigos...).
+
+Puedes usar cualquier editor genérico que prefieras como Photoshop o GIMP, pero te recomendamos el uso de un editor más especializado en gráficos spectrum, para que no tengas ningún problema con las especificaciones que estas deben seguir como los colores que puedes utilizar, te recomendamos usar uno más específico como ZX Paintbrush.
 
 [ZX PAINTBRUSH](https://sourcesolutions.itch.io/zx-paintbrush)
 
-If you are a linux user, you can execute it perfectily using wine.
+Si eres usuario de linux lo podrás ejecutar perfectamente con wine.
 
 # Tiled
-This game maker use Tiled to design the map and put all elements on it. Then you need to install it downloading your operative system version of thi in the following link:
+
+Este Game Maker usa Tiled para diseñar el mapa de tu juego y posicionar todos los elementos en el mismo.
+
+Además desde el mismo programa podrás configurar opciones generales de tu juego.
 
 [DOWNLOAD TILED](https://www.mapeditor.org/download.html)
 
 # Docker
 
-To allow execute the game maker in all computers is builded in docker, then you need install it to generate ZX Spectrum game
+Para que este game maker funcione correctamente en todos los sistemas operativos, lo hemos "empaquetado" usando la tecnilogía docker, de manera que simplemente instalando esta tecnología en tu ordenador, deberías poder generar tu juego.
 
 [DOCKER](https://www.docker.com/get-started/)
