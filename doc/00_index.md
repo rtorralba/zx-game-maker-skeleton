@@ -1,10 +1,13 @@
 # Index
 
-## [Install](01_install.md)
-How to install basic programs to use it. 
-## [Designing](02_designing.md)
-You need to design som images fot your game, screens (title, loading, hud...), tileset, spriteset... 
-## [Positioning](03_positioning.md)
-**Tiled** is a powerfull tool to design game screens. Using Tiled you can create the map of the game and put elements like enemies, keys, items and doors.
+## [Instalar](01_install.md)
+Como instalar los programas básicos para generar tu juego. 
+
+## [Diseñando](02_designing.md)
+Necesitas diseñar algunas imágenes para tu juego, pantallas como la pantalla de carge, la principal... Y otras imágenes de apoyo que te permitirá poder diseñar tus pantallas con Tiled
+ 
+## [Positionando los elementos](03_positioning.md)
+**Tiled** es una gran herramienta para diseñar mapas de juegos y posicionar los elementos como enemigos, llaves, puertas... en el mismo.
+
 ## [Generating](04_generating.md)
-TODO
+Una vez realizadas las acciones de diseño y creación de las pantallas, sólo nos queda generar nuestro juego.
