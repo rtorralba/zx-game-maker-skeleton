@@ -8,6 +8,14 @@ Recomendamos usar [ZX Paintbrush](https://sourcesolutions.itch.io/zx-paintbrush)
 
 ZX Game Maker usa [Boriel's ZX Basic](https://zxbasic.readthedocs.io/en/docs/), [GuSprites sprites library](https://github.com/gusmanb/GuSprites) y python for scripting
 
+## Como empezar
+
+Descargar este repositorio, descomprimirlo y cambiar el nombre de la carpeta con el nombre de tu juego y dentro ya tienes los recursos y el script para construir el juego.
+
+[Descarga](https://github.com/rtorralba/zx-game-maker-skeleton/archive/refs/heads/main.zip)
+
+Te recomendamos leer antes la documentación
+
 ## Doc
 
 Puedes aprender como usar el ZX Game Maker en la siguiente documentación
