@@ -16,21 +16,3 @@ This game maker use Tiled to design the map and put all elements on it. Then you
 To allow execute the game maker in all computers is builded in docker, then you need install it to generate ZX Spectrum game
 
 [DOCKER](https://www.docker.com/get-started/)
-
-# Make
-
-Make es una herramienta para ejecutar comandos de manera automatizada que usa el game maker para ejecutar todos los pasos necesarios para generar el juego
-
-## Linux
-
-```bash
-apt install make 
- ```
-
-## Windows
-
-https://gnuwin32.sourceforge.net/packages/make.htm
-
-## Mac OS
-
-https://formulae.brew.sh/formula/make
