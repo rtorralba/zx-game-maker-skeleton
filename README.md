@@ -1,18 +1,20 @@
 # ZX Game Maker
 
-Tool for create ZX Spectrum games visually using [Tiled](https://www.mapeditor.org/) and the image editor that you prefers. We recommend [ZX Paintbrush](https://sourcesolutions.itch.io/zx-paintbrush), But you can use whatever you want just using ZX Spectrum requeriments (color, size)
+Herramienta para crear juegos para ZX Spectrum de manera visual usando [Tiled](https://www.mapeditor.org/) y el editor de imágenes que prefieras.
+
+Recomendamos usar [ZX Paintbrush](https://sourcesolutions.itch.io/zx-paintbrush), pero puedes usar el editor que quieras siempre y cuando las imágenes cumplan las restricciones del ZX Spectrum (color, tamaño)
 
 ## Tech
 
-ZX Game Maker use [Boriel's ZX Basic](https://zxbasic.readthedocs.io/en/docs/) and [GuSprites sprites library](https://github.com/gusmanb/GuSprites) and python for scripting
+ZX Game Maker usa [Boriel's ZX Basic](https://zxbasic.readthedocs.io/en/docs/), [GuSprites sprites library](https://github.com/gusmanb/GuSprites) y python for scripting
 
 ## Doc
 
-You can read about how to use in following documentation
+Puedes aprender como usar el ZX Game Maker en la siguiente documentación
 
 [Documentation](doc/00_index.md)
 
-## Credits
+## Creditos
 
 * [Juan J. Martínez](https://github.com/reidrac) png2src
 * [Michal Jurica](https://sourceforge.net/u/mikezt/) [ub880d](https://sourceforge.net/u/ub880d) bin2tap
@@ -27,5 +29,7 @@ You can read about how to use in following documentation
 * [Duefectu](https://twitter.com/Duefectu)
 * [cmgonzalez](https://github.com/cmgonzalez)
 * [Augusto Ruiz](https://github.com/AugustoRuiz)
+* [@briefer_666](https://briefer.itch.io/)
+* [cronomantic](https://github.com/cronomantic)
 
-And all of ZX Basic Boriel's Telegram Group
+Y a todo el grupo de ZX Basic de Boriel de Telegram
