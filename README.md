@@ -37,6 +37,7 @@ Grupo de Telegram: [https://t.me/zx_spectrum_game_maker](https://t.me/zx_spectru
 * [Andy Balaam](https://github.com/andybalaam) bas2tap
 * [Einar Saukas](https://github.com/einar-saukas) ZX0
 * [PixelArtM](https://twitter.com/PixelArtM) Sprites
+* [Isaías](https://isaiasdiaz.itch.io/) make-game.bat
 
 ## Special Thanks
 
