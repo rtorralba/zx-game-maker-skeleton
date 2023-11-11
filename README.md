@@ -1,4 +1,4 @@
-# ZX Game Maker
+# ZX Spectrum Game Maker
 
 Herramienta para crear juegos para ZX Spectrum de manera visual usando [Tiled](https://www.mapeditor.org/) y el editor de imágenes que prefieras.
 
@@ -27,6 +27,8 @@ Descargar este repositorio, descomprimirlo y cambiar el nombre de la carpeta con
 Puedes aprender como usar el ZX Game Maker en la siguiente documentación
 
 [Documentation](doc/00_index.md)
+
+Grupo de Telegram: [https://t.me/zx_spectrum_game_maker](https://t.me/zx_spectrum_game_maker)
 
 ## Créditos
 
