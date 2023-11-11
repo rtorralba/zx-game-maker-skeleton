@@ -28,6 +28,7 @@ Puedes aprender como usar el ZX Game Maker en la siguiente documentación
 * [Michal Jurica](https://sourceforge.net/u/mikezt/) [ub880d](https://sourceforge.net/u/ub880d) bin2tap
 * [Andy Balaam](https://github.com/andybalaam) bas2tap
 * [Einar Saukas](https://github.com/einar-saukas) ZX0
+* [PixelArtM](https://twitter.com/PixelArtM) Sprites
 
 ## Special Thanks
 
