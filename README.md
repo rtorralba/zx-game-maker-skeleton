@@ -6,7 +6,7 @@ Recomendamos usar [ZX Paintbrush](https://sourcesolutions.itch.io/zx-paintbrush)
 
 ## Fase Alpha IMPORTANTE
 
-ZX Game Maker se encuentra todavía en una fase alpha con funcionalidades pendientes y a fala de un testeo intensivo. No se recomienda para un uso ya final, si bien tiene un estado muy avanzado en muchas de sus posibilidades, hay que ser consciente que no esta en estado de lanzamiento.
+ZX Game Maker se encuentra todavía en una fase alpha con funcionalidades pendientes y a falta de un testeo intensivo. No se recomienda para un uso ya final, si bien tiene un estado muy avanzado en muchas de sus posibilidades, hay que ser consciente que no está en estado de lanzamiento.
 
 ## Tech
 
