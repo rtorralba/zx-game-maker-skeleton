@@ -1,4 +1,5 @@
-![](doc/images/logo.png)
+<img src="doc/images/logo.png" alt="drawing" width="200" align="center"/>
+
 # ZX Spectrum Game Maker
 
 Herramienta para crear juegos para ZX Spectrum de manera visual usando [Tiled](https://www.mapeditor.org/) y el editor de imágenes que prefieras.
