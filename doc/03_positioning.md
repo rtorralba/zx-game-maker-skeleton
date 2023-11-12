@@ -66,7 +66,7 @@ Es recomendable que le pongas un nombre al mismo para cuando referencies la posi
 
 * Haz clic en el butón **Insert point**.
 * Pon este punto donde quieras que para el enemigo manteniendo la tecla Ctrl y a la misma altura(Coordenada Y) que el enemigo.
-* Añade a este punto una propiedad personalizada (custom property) de tupi objeto y selecciona el enemigo relacionado con este punto.
+* Añade a este punto una propiedad personalizada (custom property) de tipo objeto y selecciona el enemigo relacionado con este punto.
 
 ![](images/enemy_movement.png)
 
