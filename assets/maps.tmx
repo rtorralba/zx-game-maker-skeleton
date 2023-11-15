@@ -146,7 +146,7 @@
    </properties>
    <point/>
   </object>
-  <object id="15" name="enemy_end_3" x="416" y="216">
+  <object id="15" name="enemy_end_3" x="416" y="208">
    <properties>
     <property name="enemy" type="object" value="16"/>
    </properties>
