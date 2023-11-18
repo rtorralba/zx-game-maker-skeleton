@@ -45,6 +45,7 @@ Grupo de Telegram: [https://t.me/zx_spectrum_game_maker](https://t.me/zx_spectru
 * [Einar Saukas](https://github.com/einar-saukas) ZX0
 * [PixelArtM](https://twitter.com/PixelArtM) Sprites
 * [Isaías](https://isaiasdiaz.itch.io/) make-game.bat
+* [shiru8bit](http://shiru.untergrund.net) Beeper FX Sounds
 
 ## Special Thanks
 
