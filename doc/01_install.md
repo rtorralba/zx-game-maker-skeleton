@@ -1,4 +1,4 @@
-# Image editor
+# Editor de imágenes
 
 Necesitas un editor de imágenes para diseñar algunas pantallas de tu juego como la pantalla inicial, carga, principal... Y el conjunto de tiles (los cuadraditos que sirven para diseñar las pantallas) y sprites (Personaje principal, enemigos...).
 
@@ -8,7 +8,7 @@ Puedes usar cualquier editor genérico que prefieras como Photoshop o GIMP, pero
 
 Si eres usuario de linux lo podrás ejecutar perfectamente con wine.
 
-# Tiled
+# Tiled. Herramienta para diseñar nuestras pantallas y posicionar los elementos en ellas.
 
 Este Game Maker usa Tiled para diseñar el mapa de tu juego y posicionar todos los elementos en el mismo.
 
@@ -18,6 +18,6 @@ Además desde el mismo programa podrás configurar opciones generales de tu jueg
 
 # Docker
 
-Para que este game maker funcione correctamente en todos los sistemas operativos, lo hemos "empaquetado" usando la tecnilogía docker, de manera que simplemente instalando esta tecnología en tu ordenador, deberías poder generar tu juego.
+Para que este game maker funcione correctamente en todos los sistemas operativos, lo hemos "empaquetado" usando la tecnología docker, de manera que simplemente instalando esta tecnología en tu ordenador, deberías poder generar tu juego.
 
 [DOCKER](https://www.docker.com/get-started/)
