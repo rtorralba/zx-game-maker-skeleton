@@ -85,7 +85,6 @@ Puedes añadir hasta 3 enemigos en cada pantalla y configurar su movimiento.
 Para ello deberás seleccionar la capa objects y arrastrar el 1er sprite del enemigo a posicionar donde quieras que aparezca inicialmente.
 
 Como truco, si pulsas la tecla Ctrl el enemigo se situará respetado la rejilla.
-You can add enemies into your map and set its movement (just horizontal for now). Set enemy in Type into object properties
 
 En la propiedad **type** de este objeto deberás introducir el text **enemy**
 
