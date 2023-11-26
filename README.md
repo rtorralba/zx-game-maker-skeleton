@@ -1,4 +1,4 @@
-<img src="doc/images/logo.png" alt="drawing" width="200" align="center"/>
+<img src="https://gm.retrojuegos.org/images/company_logo.png" alt="drawing" width="200" align="center"/>
 
 # ZX Spectrum Game Maker
 
