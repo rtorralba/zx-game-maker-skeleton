@@ -32,7 +32,7 @@ Descargar este repositorio, descomprimirlo y cambiar el nombre de la carpeta con
 
 Puedes aprender como usar el ZX Game Maker en la siguiente documentación
 
-[Documentation](doc/00_index.md)
+[Documentation](https://gm.retrojuegos.org/)
 
 Grupo de Telegram: [https://t.me/zx_spectrum_game_maker](https://t.me/zx_spectrum_game_maker)
 

@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="left-down" width="132" height="116" tilewidth="8" tileheight="8" infinite="1" nextlayerid="3" nextobjectid="32">
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="left-down" width="132" height="116" tilewidth="8" tileheight="8" infinite="1" nextlayerid="3" nextobjectid="34">
  <editorsettings>
   <chunksize width="32" height="22"/>
  </editorsettings>
  <properties>
+  <property name="VTPLAYER_INIT" value="EFAD"/>
+  <property name="VTPLAYER_MUTE" value="EFB5"/>
+  <property name="VTPLAYER_NEXTNOTE" value="EFB2"/>
   <property name="bulletDistance" type="int" value="0"/>
   <property name="damageAmount" type="int" value="10"/>
   <property name="enemiesRespawn" type="bool" value="false"/>
   <property name="goalItems" type="int" value="2"/>
   <property name="initialLife" type="int" value="50"/>
   <property name="lifeAmount" type="int" value="5"/>
+  <property name="musicEnabled" type="bool" value="false"/>
   <property name="shooting" type="bool" value="true"/>
   <property name="shouldKillEnemies" type="bool" value="false"/>
  </properties>
@@ -148,13 +152,6 @@
    </properties>
    <point/>
   </object>
-  <object id="15" name="enemy_end_3" x="416" y="208">
-   <properties>
-    <property name="enemy" type="object" value="16"/>
-   </properties>
-   <point/>
-  </object>
-  <object id="16" name="enemy_3" type="enemy" gid="221" x="368" y="208" width="16" height="16"/>
   <object id="17" name="enemy_4" type="enemy" gid="209" x="264" y="152" width="16" height="16"/>
   <object id="18" name="enemy_4_end" x="336" y="152">
    <properties>
@@ -176,6 +173,13 @@
   <object id="31" x="376" y="256">
    <properties>
     <property name="enemy" type="object" value="30"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="32" name="platform_1" type="platform" gid="201" x="280" y="304" width="16" height="16"/>
+  <object id="33" name="platform_1_end" x="336" y="304">
+   <properties>
+    <property name="platform_1" type="object" value="32"/>
    </properties>
    <point/>
   </object>
