@@ -59,3 +59,11 @@ Grupo de Telegram: [https://t.me/zx_spectrum_game_maker](https://t.me/zx_spectru
 * [cronomantic](https://github.com/cronomantic)
 
 Y a todo el grupo de ZX Basic de Boriel de Telegram
+
+## Licencia
+
+El ZX Spectrum Game Maker se distribuye bajo una licencia MIT. Puedes hacer juegos como quieras, pero incluye en un lugar visible el logo en la pantalla de inicio del juego, y en la web donde lo distribuyas, tanto el logo como el enlace a esta página, así otras personas podrán beneficiarse del uso del motor:
+
+<img src="https://gm.retrojuegos.org/images/logo_spectrum.png" alt="Logo ZX Spectrum Game Maker para ZX Spectrum">
+
+Si quieres hacer copias físicas sólo tienes que añadir también el logo en un lugar visible y avisarnos, siempre es agradable saber de estos nuevos desarrollos.
