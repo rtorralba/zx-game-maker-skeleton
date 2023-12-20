@@ -66,4 +66,9 @@ El ZX Spectrum Game Maker se distribuye bajo una licencia MIT. Puedes hacer jueg
 
 <img src="https://gm.retrojuegos.org/images/logo_spectrum.png" alt="Logo ZX Spectrum Game Maker para ZX Spectrum">
 
+Si usas assets del motor, cosa que desaconsejamos por aquello de la originalidad, debes mencionar en los créditos en funcion de lo que uses:
+
+* Gráficos: al motor y a [PixelArtM](https://twitter.com/PixelArtM)
+* Efectos de sonido: a [shiru8bit](http://shiru.untergrund.net)
+
 Si quieres hacer copias físicas sólo tienes que añadir también el logo en un lugar visible y avisarnos, siempre es agradable saber de estos nuevos desarrollos.
