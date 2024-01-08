@@ -4,4 +4,5 @@ output/
 *.tap
 *.scr
 *.tmp.png
+dist/
 ```
