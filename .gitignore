@@ -1,4 +1,7 @@
 .pdf
 output/
 .vscode/
+*.tap
+*.scr
+*.tmp.png
 ```
