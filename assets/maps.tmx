@@ -10,6 +10,7 @@
   <property name="bulletDistance" type="int" value="0"/>
   <property name="damageAmount" type="int" value="10"/>
   <property name="enemiesRespawn" type="bool" value="false"/>
+  <property name="gameName" value="Game Name"/>
   <property name="goalItems" type="int" value="2"/>
   <property name="initialLife" type="int" value="50"/>
   <property name="lifeAmount" type="int" value="5"/>
