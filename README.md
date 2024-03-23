@@ -16,20 +16,6 @@ ZX Game Maker usa [Boriel's ZX Basic](https://zxbasic.readthedocs.io/en/docs/), 
 
 ## Como empezar
 
-### Instalación de los programas necesarios
-
-Instala el programa de diseño, Tiled, de manupilación de imágenes, y el que nos permitirá ejecutar el moto, Docker.
-
-[Instalación](doc/01_install.md)
-
-Descargar este repositorio, descomprimirlo y cambiar el nombre de la carpeta con el nombre de tu juego y dentro ya tienes los recursos y el script para construir el juego.
-
-[Descarga](https://github.com/rtorralba/zx-game-maker-skeleton/archive/refs/heads/main.zip)
-
-**Te recomendamos leer antes la documentación**
-
-## Doc
-
 Puedes aprender como usar el ZX Game Maker en la siguiente documentación
 
 [Documentation](https://gm.retrojuegos.org/)
