@@ -6,9 +6,9 @@ Herramienta para crear juegos para ZX Spectrum de manera visual usando [Tiled](h
 
 Recomendamos usar [ZX Paintbrush](https://sourcesolutions.itch.io/zx-paintbrush), pero puedes usar el editor que quieras siempre y cuando las imágenes cumplan las restricciones del ZX Spectrum (color, tamaño)
 
-## Fase Alpha IMPORTANTE
+## Fase Beta IMPORTANTE
 
-**ZX Spectrum Game Maker** se encuentra todavía en una fase alpha con funcionalidades pendientes y a falta de un testeo intensivo. No se recomienda para un uso ya final, si bien tiene un estado muy avanzado en muchas de sus posibilidades, hay que ser consciente que no está en estado de lanzamiento.
+**ZX Spectrum Game Maker** se encuentra todavía en una fase beta con funcionalidades pendientes y a falta de un testeo intensivo. No se recomienda para un uso ya final, si bien tiene un estado muy avanzado en muchas de sus posibilidades, hay que ser consciente que no está en estado de lanzamiento.
 
 ## Tech
 
