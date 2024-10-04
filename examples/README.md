@@ -14,4 +14,4 @@ Is an action platform game. Is the default skeleton game into assets, if you jus
 
 Is and overhead view example game.
 
-https://gm.retrojuegos.org/images/overhead-game.gif
+![](https://gm.retrojuegos.org/images/overhead-game.gif)
