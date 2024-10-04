@@ -18,10 +18,10 @@ done
 
 if [[ $unameOut == "Linux" ]]; then
     echo -e "Compiling for Linux... ====================================\n\n"
-    tiled --export-map json assets/maps.tmx output/maps.json
+    tiled --export-map json assets/map/maps.tmx output/maps.json
 else
     echo -e "Compiling for MacOS... ====================================\n\n"
-    /Applications/Tiled.app/Contents/MacOS/Tiled --export-map json assets/maps.tmx output/maps.json
+    /Applications/Tiled.app/Contents/MacOS/Tiled --export-map json assets/map/maps.tmx output/maps.json
 fi
 
 docker run -v "${PWD}"/assets:/app/assets -v "${PWD}"/output:/app/output -v "${PWD}"/dist:/app/dist -it --rm $dockerImage
