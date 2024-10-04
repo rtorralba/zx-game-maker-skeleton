@@ -2,7 +2,6 @@
 output/
 .vscode/
 *.tap
-*.scr
 *.tmp.png
 dist/
 ```
