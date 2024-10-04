@@ -1,0 +1,184 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "compatibilityVersion": 1100,
+    "extensionsPath": "extensions",
+    "folders": [
+        "."
+    ],
+    "properties": [
+    ],
+    "propertyTypes": [
+        {
+            "id": 1,
+            "name": "gameView",
+            "storageType": "string",
+            "type": "enum",
+            "values": [
+                "side",
+                "overhead"
+            ],
+            "valuesAsFlags": false
+        },
+        {
+            "color": "#ffa0a0a4",
+            "drawFill": true,
+            "id": 2,
+            "members": [
+                {
+                    "name": "128Kenabled",
+                    "type": "bool",
+                    "value": false
+                },
+                {
+                    "name": "VTPLAYER_INIT",
+                    "type": "string",
+                    "value": "EFAD"
+                },
+                {
+                    "name": "VTPLAYER_MUTE",
+                    "type": "string",
+                    "value": "EFB5"
+                },
+                {
+                    "name": "VTPLAYER_NEXTNOTE",
+                    "type": "string",
+                    "value": "EFB2"
+                },
+                {
+                    "name": "ammo",
+                    "type": "int",
+                    "value": -1
+                },
+                {
+                    "name": "ammoIncrement",
+                    "type": "int",
+                    "value": 10
+                },
+                {
+                    "name": "animatePeriodEnemy",
+                    "type": "int",
+                    "value": 3
+                },
+                {
+                    "name": "animatePeriodMain",
+                    "type": "int",
+                    "value": 3
+                },
+                {
+                    "name": "animatePeriodTile",
+                    "type": "int",
+                    "value": 10
+                },
+                {
+                    "name": "backgroundAttribute",
+                    "type": "int",
+                    "value": 7
+                },
+                {
+                    "name": "border",
+                    "type": "string",
+                    "value": "0"
+                },
+                {
+                    "name": "bulletDistance",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "damageAmount",
+                    "type": "int",
+                    "value": 10
+                },
+                {
+                    "name": "enemiesRespawn",
+                    "type": "bool",
+                    "value": true
+                },
+                {
+                    "name": "gameName",
+                    "type": "string",
+                    "value": "Game Name"
+                },
+                {
+                    "name": "gameView",
+                    "propertyType": "gameView",
+                    "type": "string",
+                    "value": "side"
+                },
+                {
+                    "name": "goalItems",
+                    "type": "int",
+                    "value": 2
+                },
+                {
+                    "name": "hiScore",
+                    "type": "bool",
+                    "value": false
+                },
+                {
+                    "name": "initialLife",
+                    "type": "int",
+                    "value": 50
+                },
+                {
+                    "name": "ink",
+                    "type": "string",
+                    "value": "7"
+                },
+                {
+                    "name": "killJumpingOnTop",
+                    "type": "bool",
+                    "value": false
+                },
+                {
+                    "name": "lifeAmount",
+                    "type": "int",
+                    "value": 5
+                },
+                {
+                    "name": "maxEnemiesPerScreen",
+                    "type": "int",
+                    "value": 5
+                },
+                {
+                    "name": "musicEnabled",
+                    "type": "bool",
+                    "value": false
+                },
+                {
+                    "name": "paper",
+                    "type": "string",
+                    "value": "0"
+                },
+                {
+                    "name": "password",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "name": "shooting",
+                    "type": "bool",
+                    "value": true
+                },
+                {
+                    "name": "shouldKillEnemies",
+                    "type": "bool",
+                    "value": false
+                },
+                {
+                    "name": "waitPressKeyAfterLoad",
+                    "type": "bool",
+                    "value": false
+                }
+            ],
+            "name": "ZXSpectrumGameMaker",
+            "type": "class",
+            "useAs": [
+                "map",
+                "project"
+            ]
+        }
+    ]
+}

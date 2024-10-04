@@ -1,0 +1,53 @@
+{
+    "activeFile": "maps.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "/home/raul/dev/spectrum/zxbasic/zx-game-maker/examples/platforms/map/maps.tmx": {
+            "scale": 1.5190104166666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 254.11280644608263,
+                "y": 285.05400308589066
+            }
+        },
+        "/home/raul/dev/spectrum/zxbasic/zx-game-maker/examples/platforms/map/maps.tmx#sprites": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/raul/dev/spectrum/zxbasic/zx-game-maker/examples/platforms/map/maps.tmx#tiles": {
+            "scaleInDock": 1
+        },
+        "maps.tmx": {
+            "scale": 1.97607421875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 255.81022979985175,
+                "y": 191.54138868297503
+            }
+        },
+        "maps.tmx#sprites": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps.tmx#tiles": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.objectTypesPath": "/home/raul/dev/spectrum/zxbasic/zx-game-maker/propertytypes.json",
+    "openFiles": [
+        "maps.tmx"
+    ],
+    "project": "maps.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "maps.tmx",
+        "/home/raul/dev/spectrum/zxbasic/zx-game-maker/examples/platforms/map/maps.tmx"
+    ]
+}

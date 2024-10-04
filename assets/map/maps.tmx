@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="left-down" width="132" height="116" tilewidth="8" tileheight="8" infinite="1" nextlayerid="3" nextobjectid="34">
+<map version="1.10" tiledversion="1.11.0" class="ZXSpectrumGameMaker" orientation="orthogonal" renderorder="left-down" width="132" height="116" tilewidth="8" tileheight="8" infinite="1" nextlayerid="3" nextobjectid="34">
  <editorsettings>
   <chunksize width="32" height="22"/>
  </editorsettings>
  <properties>
+  <property name="128Kenabled" type="bool" value="true"/>
   <property name="VTPLAYER_INIT" value="EFAD"/>
   <property name="VTPLAYER_MUTE" value="EFB5"/>
   <property name="VTPLAYER_NEXTNOTE" value="EFB2"/>
-  <property name="animatePeriodEnemy" type="int" value="3"/>
-  <property name="animatePeriodMain" type="int" value="3"/>
+  <property name="ammo" type="int" value="0"/>
   <property name="animatePeriodTile" type="int" value="10"/>
   <property name="backgroundAttribute" type="int" value="7"/>
   <property name="bulletDistance" type="int" value="0"/>
   <property name="damageAmount" type="int" value="10"/>
-  <property name="enemiesRespawn" type="bool" value="false"/>
+  <property name="enemiesRespawn" type="bool" value="true"/>
   <property name="gameName" value="Game Name"/>
   <property name="goalItems" type="int" value="2"/>
+  <property name="hiScore" type="bool" value="false"/>
   <property name="initialLife" type="int" value="50"/>
+  <property name="killJumpingOnTop" type="bool" value="true"/>
   <property name="lifeAmount" type="int" value="5"/>
   <property name="maxEnemiesPerScreen" type="int" value="5"/>
-  <property name="musicEnabled" type="bool" value="false"/>
+  <property name="musicEnabled" type="bool" value="true"/>
   <property name="shooting" type="bool" value="true"/>
   <property name="shouldKillEnemies" type="bool" value="true"/>
  </properties>
@@ -38,6 +40,7 @@
   <tile id="128" type="animated-damage"/>
   <tile id="129" type="damage"/>
   <tile id="166" type="damage"/>
+  <tile id="187" type="ammo"/>
   <tile id="188" type="door"/>
   <tile id="189" type="life"/>
   <tile id="190" type="item"/>
@@ -113,10 +116,10 @@
 3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,
 3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,
 3,3,1,1,1,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,
-3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,1,1,1,1,1,91,92,1,1,1,1,1,3,
-3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,123,124,1,1,1,1,1,3,
-3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,155,156,1,1,1,1,1,189,
-3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,187,188,1,1,1,1,1,189,
+3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,1,1,1,1,1,77,78,1,1,1,1,1,3,
+3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,109,110,1,1,1,1,1,3,
+3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,141,142,1,1,1,1,1,189,
+3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,173,174,1,188,1,1,1,189,
 4,4,4,4,4,4,4,4,4,4,4,4,4,4,167,167,167,167,167,4,4,4,4,4,4,4,4,4,4,4,4,4,
 36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36
 </chunk>
@@ -125,7 +128,7 @@
 3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,3,3,
 3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,64,1,1,1,1,1,1,1,1,1,3,3,
 3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,64,1,1,1,1,1,1,1,1,1,3,3,
-3,1,1,87,88,89,90,1,1,68,68,68,68,68,68,68,68,68,68,68,3,3,3,3,3,3,3,3,3,3,3,3,
+3,1,1,87,88,89,90,1,1,68,68,68,68,68,68,68,68,68,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
 3,1,1,119,120,121,122,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,
 3,1,1,151,152,153,154,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,
 3,1,1,183,184,185,186,1,1,1,1,1,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,3,3,

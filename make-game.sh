@@ -1,6 +1,6 @@
 unameOut="$(uname -s)"
 
-dockerImage="rtorralba/zx-game-maker:latest"
+dockerImage="rtorralba/zx-game-maker:1.0rc"
 
 for i in "$@"; do
     case $i in
