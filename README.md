@@ -44,6 +44,7 @@ Grupo de Telegram: [https://t.me/zx_spectrum_game_maker](https://t.me/zx_spectru
 * [Augusto Ruiz](https://github.com/AugustoRuiz)
 * [@briefer_666](https://briefer.itch.io/)
 * [cronomantic](https://github.com/cronomantic)
+* [Juan Antonio](https://x.com/JuanAntonio1072)
 
 Y a todo el grupo de ZX Basic de Boriel de Telegram
 
