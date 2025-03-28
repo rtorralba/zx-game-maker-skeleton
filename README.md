@@ -1,6 +1,10 @@
-# Este proyecto está deprecado porque se paso el engine a open source
+# Este proyecto está deprecado porque se paso el engine a open source!!!!
 
 [https://github.com/rtorralba/zx-game-maker](https://github.com/rtorralba/zx-game-maker)
+
+
+
+---
 
 
 
